@@ -1,3 +1,10 @@
+#JPA MAPPINGS
+
+> User below url for posting request
+
+http://localhost:8080/swagger-ui.html#
+
+> One-To-Many
 ```
 {
   "customer": {
@@ -17,7 +24,7 @@
   }
 }
 
-
+> One-To-One
 {
   "library": {
     "title": "book1",
